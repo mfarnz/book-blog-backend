@@ -73,7 +73,7 @@ var books = [
     bSeries: "1",
     published: "2003",
     pagecount: "534",
-    review: "very Exiting",
+    review: "Very exiting",
     link:
       "https://www.goodreads.com/book/show/28194.Inkheart?ac=1&from_search=true&qid=AJmKX49xjB&rank=1",
     website: "https://corneliafunke.com/en",
@@ -87,7 +87,7 @@ var books = [
     bSeries: "1",
     published: "1964",
     pagecount: "217",
-    review: "very Exiting",
+    review: "Very exiting",
     link:
       "https://www.goodreads.com/book/show/24780.The_Book_of_Three?ac=1&from_search=true&qid=PwBG3g1B6y&rank=1",
     website: "https://en.wikipedia.org/wiki/Lloyd_Alexander",
